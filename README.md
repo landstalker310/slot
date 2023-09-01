@@ -33,6 +33,7 @@
 ## 2. 穿戴式壓力偵測裝置
 
 ![](https://lh5.googleusercontent.com/Aa86y3zQfAAgpHfv6rLZDXDodEHXYEppqd4K7iBKVGM0-ZMIb-V1B8xmOLzdP_QeOzr0SwvP9r5a9OLaeciiNYkM4NBRsVL6iNmntgznBeJKqVXksjXUlF6cM3kuzEMR6ZPMs9vYIgFMxETX7oLrz87V2g=s2048)
+
 問題: 無法精準測量壓力, 太緊可能
 
 造成血液循環不良, 使褥瘡惡化
