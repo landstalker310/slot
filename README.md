@@ -38,4 +38,5 @@
 造成血液循環不良, 使褥瘡惡化
 
 ## 3 舊式有線壓力測量儀器
-![cases](https://github.com/landstalker310/slot/assets/39111893/bf122a36-6915-44bb-ab06-d42498bae5f1)
+
+![Capture](https://github.com/landstalker310/slot/assets/39111893/571cc15f-eb66-40b3-b6a0-2d75249792a5)
