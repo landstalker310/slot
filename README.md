@@ -49,6 +49,7 @@
 也會因為儀器刺激皮膚, 造成惡化
 
 # 新型無電池壓力溫度測量儀器
+## 儀器結構
 
 ![image](https://github.com/landstalker310/slot/assets/39111893/de35837f-e96c-4628-92e5-0e8be78f7df3)
 
@@ -61,4 +62,26 @@
 > [!NOTE] 
 > NFC 傳輸頻率 13.50MHz, 手機約 700~2155MHz
 
+## 儀器外觀
 
+![image](https://github.com/landstalker310/slot/assets/39111893/6e599829-60be-4039-aad9-8d4f47213e47)
+
+- 短小輕薄，幾乎感覺不到儀器的存在
+
+## 資料監控和能源供應
+
+![image](https://github.com/landstalker310/slot/assets/39111893/92ba9a8c-0071-4265-94f9-4c098d62e527)
+
+## 儀器測試
+
+![image](https://github.com/landstalker310/slot/assets/39111893/bd390316-1719-4a86-9e5d-61fcc2ceb0d2)
+![image](https://github.com/landstalker310/slot/assets/39111893/736e07a4-5bf5-402d-8b19-82da720ceb66)
+
+- 結果跟預期相同: 溫度壓力顯示有直接關聯
+
+# 新科技趨勢的應用
+
+- 物聯網(IoT - The Internet of Things)
+- 無電池化, 沒有充電和更換電池的問題
+
+SOURCE:https://www.nature.com/articles/s41467-021-25324-w
