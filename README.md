@@ -1,5 +1,5 @@
 # 什麼是皮下組織壓力損傷
-
+```
 褥瘡 :
 
 - 是皮膚受到壓迫或摩擦, 導致皮膚受傷甚至深及皮下組織，肌肉與骨頭的情形。皮膚溫度升高也會加速褥瘡的形成。
@@ -9,7 +9,7 @@
 - 併發症有蜂窩性組織炎，骨髓炎，敗血症等
 
 - 在美國每年有250萬人得褥瘡相關的疾病，每年總共花費90 到 110億美金醫療費，每年有6萬人死於褥瘡的併發症
-
+```
 # 褥瘡好發位置
 
 ![](https://lh5.googleusercontent.com/NseLCRjGUm6AYfoUJuc2SSV_hzif9A4Fux8ShYTSBHfs1agjCPPTD9gAu_3gKZ6wl76Fb6ddfFnsyquMWfLp-juIcfQG5-jnnIC6FjUz2MA6RF77ArhbRUXG5V6x4Hwo6oR6lODfIPNpzHjcs6he2zA7ug=s2048)
@@ -19,6 +19,7 @@
 
 -   定時翻身
 -   特殊床墊
+  
 ![](https://lh4.googleusercontent.com/ntUtzsRk58gyQQoZwN65O4Qc9AN45X58zOCBFI4KBBVvjUNlENRTzgQhcThuRQfIaKMXOfUbsLNA3pK68mSu3372VPhwB68m4mXNJPr7X2_Z_Ig_IqlQNBGu-I1is6aW98bl0nmeVmHB-4Ti4p9IUR3OcQ=s2048)
 
 # 目前主要監測方式
@@ -43,6 +44,21 @@
 ![Capture](https://github.com/landstalker310/slot/assets/39111893/571cc15f-eb66-40b3-b6a0-2d75249792a5)
 
 問題: 這些線會限制了病患的移動,  儀器的重量也會讓皮膚和肌肉
+
 需要更多的氧氣維持機能, 容易造成病情惡化
 也會因為儀器刺激皮膚, 造成惡化
+
+# 新型無電池壓力溫度測量儀器
+
+![image](https://github.com/landstalker310/slot/assets/39111893/de35837f-e96c-4628-92e5-0e8be78f7df3)
+
+- NFCSoC (Near field communication system-on-a_chip)
+傳送資料
+
+- Coil antenna 接收電源
+
+
+> [!NOTE] 
+> NFC 傳輸頻率 13.50MHz, 手機約 700~2155MHz
+
 
